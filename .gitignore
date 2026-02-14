@@ -105,9 +105,8 @@ ENV/
 env.bak/
 venv.bak/
 
-.caiAssignmentEnv
-.caiAssignmentEnv/
-
+.CvAssignmentEnv
+.CvAssignmentEnv/
 
 ### chroma-DB
 # chroma-DB/
