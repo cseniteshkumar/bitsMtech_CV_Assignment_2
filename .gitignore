@@ -202,3 +202,10 @@ runs/
 outputs/
 results/
 logs/
+
+
+##### Ignore Data Files
+Data_Files/
+Data_Files/*
+
+

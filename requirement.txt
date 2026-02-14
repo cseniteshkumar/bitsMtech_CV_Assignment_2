@@ -33,3 +33,9 @@ gradio
 chromadb
 
 
+##### CV Assignement Libraries
+filterpy
+motmetrics
+
+
+
