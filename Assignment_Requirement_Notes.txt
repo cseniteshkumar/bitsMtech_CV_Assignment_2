@@ -1,0 +1,34 @@
+validate with sample papers
+
+R-CNN Model (identify and track multiple objects in video streams)
+
+Data Processing
+    * Extract Data Frames in sequence 
+    * normalization to Standardize
+    * data augmentation techniques such as 
+        - random cropping, 
+        - flipping
+        - color jittering to improve model robustness
+
+
+Model Development:
+    *  R-CNN model for object detection, 
+    * fine-tuning it on the selected
+
+Dataset:
+    * Integrate a temporal consistency 
+    * maintain consistent identities across frames
+    * Implement adaptive tracking algorithms 
+        - (e.g., Kalman filter or SORT) 
+        - adjust tracking parameters based on object speed and direction.
+
+
+Evaluation:
+    * Evaluate the model's performance using metrics such as 
+        - mean Average Precision (mAP), 
+        - tracking accuracy, 
+        - identity switch rate.
+
+    * Compare the performance 
+        - against baseline models 
+        - other state-of-the-art tracking algorithms. (Optional)

@@ -38,6 +38,5 @@ filterpy
 motmetrics
 opencv-python
 opencv-contrib-python
-
-
+pillow
 
