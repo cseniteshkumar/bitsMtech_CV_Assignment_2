@@ -1,0 +1,35 @@
+tensorflow
+torch
+keras
+jax
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+transformers
+fastai
+onnx
+deepspeed
+jupyter
+ipykernel
+
+#### Project Specific
+wikipedia-api
+beautifulsoup4
+sentence-transformers
+## faiss-gpu
+faiss-gpu-cu12
+rank-bm25 
+nltk
+transformers
+torch
+tqdm
+
+
+
+### Required Libraries. 
+gradio
+chromadb
+
+
